@@ -10,9 +10,8 @@
 abc,acb,bac,bca,cab,cba."""
 
 numbers = int(input())
-data = numbers // 10
-a = data // 10
-b = data % 10
+a = numbers // 100
+b = (numbers // 10) % 10
 c = numbers % 10
 
 print(f'{a}{b}{c}')
