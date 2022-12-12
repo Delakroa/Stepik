@@ -242,14 +242,12 @@ print(celsius)
 # Примечание. В течение первых двух лет собачий год равен 10.510.5 человеческим годам. После этого каждый год собаки
 # равен 4 человеческим годам.
 
-dog_years = float(input())
-human_years = 10.5
-if dog_years <= 1:
-    human_years = 10.5
-    print(human_years)
-if dog_years == 2:
-    human_years_1 = human_years + human_years
-    print(human_years_1)
-elif dog_years > 2:
-    human_years_1 = (dog_years + human_years + human_years) + 1
-    print(human_years_1)
+dog_age = float(input())
+if dog_age > 2:
+    human_age = 21 + (dog_age - 2) * 4
+    print(human_age)
+else:
+    print(dog_age * 10.5)
+
+# ----------------------------------------------------------------------------------------------------------
+
