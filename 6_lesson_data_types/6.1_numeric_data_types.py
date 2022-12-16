@@ -315,3 +315,29 @@ print(f"Наибольшее число = {num_max}")
 #
 # Формат выходных данных
 # Программа должна вывести три числа, каждое на отдельной строке, упорядоченных от большего к меньшему.
+
+x = int(input())
+y = int(input())
+z = int(input())
+
+result_min = min(x, y, z)
+result_max = max(x, y, z)
+result_average = (result_min + result_max) // 2
+
+print(f"Максимальный результат: {result_max}")
+print(f"Средний результат: {result_average}")
+print(f"Минимальный результат: {result_min}")
+
+
+# 132
+# 129
+# 135
+
+# 150
+# 160
+# 156
+
+# 161
+# 139
+# 148
+
