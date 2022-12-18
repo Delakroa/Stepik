@@ -322,20 +322,10 @@ z = int(input())
 
 result_min = min(x, y, z)
 result_max = max(x, y, z)
-result_average = (result_min + result_max) // 2
-
-print(f"Максимальный результат: {result_max}")
-print(f"Средний результат: {result_average}")
-print(f"Минимальный результат: {result_min}")
-
-
-# 132
-# 129
-# 135
-
-# 150
-# 160
-# 156
+result_average = (x + y + z) - result_min - result_max
+print(result_max)
+print(result_average)
+print(result_min)
 
 
 
