@@ -195,3 +195,48 @@ football_team_leng = len(football_team)
 print(f"Футбольная команда {football_team} имеет длину {football_team_leng} символов")
 
 # ---------------------------------------------------------------------------------------------------------------
+
+# Три города
+
+# Даны названия трех городов. Напишите программу, которая определяет самое короткое и самое длинное название города.
+
+# Формат входных данных
+# На вход программе подаётся названия трех городов, каждое на отдельной строке.
+
+# Формат выходных данных
+# Программа должна вывести самое короткое и длинное название города, каждое на отдельной строке.
+
+# Примечание. Гарантируется, что длины названий всех трех городов различны.
+
+town1 = input()
+town2 = input()
+town3 = input()
+town_len1 = len(town1)
+town_len2 = len(town2)
+town_len3 = len(town3)
+if min(town_len1, town_len2, town_len3) == town_len1:
+    print(town1)
+elif min(town_len1, town_len2, town_len3) == town_len2:
+    print(town2)
+elif min(town_len1, town_len2, town_len3) == town_len3:
+    print(town3)
+if max(town_len1, town_len2, town_len3) == town_len1:
+    print(town1)
+elif max(town_len1, town_len2, town_len3) == town_len2:
+    print(town2)
+elif max(town_len1, town_len2, town_len3) == town_len3:
+    print(town3)
+
+
+# Второй вариант:
+
+a, b, c = input(), input(), input()
+
+if(len(a) < len(b)): b, a = a, b
+if(len(c) > len(b)): c, b = b, c
+if(len(c) > len(a)): c, a = a, c
+if(len(b) > len(a)): b, a = a, b
+
+print(c, a, sep='\n')
+# ---------------------------------------------------------------------------------------------------------------
+
