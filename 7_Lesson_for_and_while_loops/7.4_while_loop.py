@@ -326,23 +326,12 @@ min_num = 9
 max_num = 0
 while num != 0:
     last_digit = num % 10
-    if last_digit < min_num:  # Минимальная
-        min_num = last_digit
-    elif last_digit > max_num:  # Максимальная
+    if last_digit > max_num:
         max_num = last_digit
+    if last_digit < min_num:
+        min_num = last_digit
     num //= 10
 print('Максимальная цифра равна', max_num)
 print('Минимальная цифра равна', min_num)
 
-num: int = int(input())
-min_num = 9  # 3 2 1
-max_num = 0
-while num != 0:
-    last_digit = num % 10
-    if last_digit > max_num:  # Минимальная 3 < 9
-        max_num = last_digit
-    elif last_digit < min_num:  # Максимальная
-        min_num = last_digit
-    num //= 10
-print('Максимальная цифра равна', max_num)
-print('Минимальная цифра равна', min_num)
+# -------------------------------------------------------------------------------------------------------------------
