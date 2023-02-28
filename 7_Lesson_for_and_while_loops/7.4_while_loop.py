@@ -360,13 +360,14 @@ def together():
     quantity_counter = 0  # кол-во
     product_counter = 1  # произведения
     last_count = 0  # последнее число
-    while flag < 4:
+    while digit != 0:
         digit = number % 10  # Последняя цифра
         last_count = digit  # для запоминания последней цифры
         count_sum += digit  # сумма
         quantity_counter += 1  # счётчик кол-во
         product_counter *= digit  # произведение
         a = count_sum / quantity_counter
+        digit //= 10
         flag += 1
     print('Последняя цифра', digit)
     print('Сумма', count_sum)
