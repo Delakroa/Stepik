@@ -353,24 +353,26 @@ print('Минимальная цифра равна', min_num)
 # Формат выходных данных
 # Программа должна вывести значения указанных величин в указанном порядке.
 
-def together():
-    number = int(input())
-    flag = 0
-    count_sum = 0  # Счётчик суммы
-    quantity_counter = 0  # кол-во
-    product_counter = 1  # произведения
-    last_count = 0  # последнее число
-    while digit != 0:
-        digit = number % 10  # Последняя цифра
-        last_count = digit  # для запоминания последней цифры
-        count_sum += digit  # сумма
-        quantity_counter += 1  # счётчик кол-во
-        product_counter *= digit  # произведение
-        a = count_sum / quantity_counter
-        digit //= 10  # Убираем последнюю цифру
-        flag += 1
-    print('Последняя цифра', digit)
-    print('Сумма', count_sum)
-    print('Количество цифр', quantity_counter)
-    print('Произведение', product_counter)
-    print('Среднее', a)
+number = int(input())
+count_sum = 0  # Счётчик суммы
+quantity_counter = 0  # кол-во
+product_counter = 1  # произведения
+first_digit = 0  # Счетчик для последней цифры
+last_digit = number % 10  # Последняя цифра
+while number != 0:
+    digit = number % 10  # После всей итерации в цикле мы получим первую цифру
+    first_digit = digit
+    count_sum += digit  # сумма
+    quantity_counter += 1  # счётчик кол-во
+    product_counter *= digit  # произведение
+    average = count_sum / quantity_counter
+    sum_f_l = first_digit + last_digit
+    number //= 10  # Убираем последнюю цифру
+print('Сумма', count_sum)
+print('Количество цифр', quantity_counter)
+print('Произведение', product_counter)
+print('Среднее', average)
+print('Первая цифра', first_digit)
+print('Сумму его первой и последней цифры', sum_f_l)
+
+# -------------------------------------------------------------------------------------------------------------------
