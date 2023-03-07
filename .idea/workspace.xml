@@ -59,7 +59,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678031424609</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Задача Выборка данных, вычисляемые столбцы, математические функции решена.">
+      <created>1678127108815</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1678127108815</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
