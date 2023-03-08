@@ -90,15 +90,15 @@ while n != 0:
 # Формат выходных данных
 # Программа должна вывести максимальную и минимальную цифры введенного числа (с поясняющей надписью).
 
-n = int(input())
-digits_max = 0
-digits_min = 0
-while n != 0:
-    last_digits = n % 10
-    digits_max = last_digits
-    if digits_max > last_digits:
-        print("Максимальное цифра равна", digits_max)
-    else:
-        print("Минимальная цифра равна", digits_max)
-    n //= 10
-    # print(last_digits, end='')
+num: int = int(input())
+min_num = 9
+max_num = 0
+while num != 0:
+    last_digit = num % 10
+    if last_digit < min_num:
+        min_num = last_digit
+    if last_digit > max_num:
+        max_num = last_digit
+    num //= 10
+print('Максимальная цифра равна', max_num)
+print('Минимальная цифра равна', min_num)
