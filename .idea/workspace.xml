@@ -4,13 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="55497a8b-d6db-4324-8774-fe46c85aeb92" name="Changes" comment="Задача Выборка данных, вычисляемые столбцы, математические функции решена.">
+    <list default="true" id="55497a8b-d6db-4324-8774-fe46c85aeb92" name="Changes" comment="Новая тема Выборка данных по условию">
+      <change beforePath="$PROJECT_DIR$/.idea/Stepik.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Stepik.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -66,13 +75,21 @@
       <option name="project" value="LOCAL" />
       <updated>1678127108815</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Новая тема Выборка данных по условию">
+      <created>1678219407988</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1678219407988</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Изменил" />
     <MESSAGE value="README" />
     <MESSAGE value="Задача Выборка данных, вычисляемые столбцы, математические функции решена." />
-    <option name="LAST_COMMIT_MESSAGE" value="Задача Выборка данных, вычисляемые столбцы, математические функции решена." />
+    <MESSAGE value="Новая тема Выборка данных по условию" />
+    <option name="LAST_COMMIT_MESSAGE" value="Новая тема Выборка данных по условию" />
   </component>
 </project>
