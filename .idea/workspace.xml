@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="55497a8b-d6db-4324-8774-fe46c85aeb92" name="Changes" comment="Выборка данных по условию задача решена">
+    <list default="true" id="55497a8b-d6db-4324-8774-fe46c85aeb92" name="Changes" comment="Выборка данных, логические операции решена">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SQL/1.2_Data sampling" beforeDir="false" afterPath="$PROJECT_DIR$/SQL/1.2_Data sampling" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -173,7 +174,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678468055386</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Выборка данных, логические операции решена">
+      <created>1678547042793</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1678547042793</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -198,6 +206,7 @@
     <MESSAGE value="Вторая цифра&#10; задача решена" />
     <MESSAGE value="Выборка данных, вычисляемые столбцы, логические функции&#10; задача решена" />
     <MESSAGE value="Выборка данных по условию задача решена" />
-    <option name="LAST_COMMIT_MESSAGE" value="Выборка данных по условию задача решена" />
+    <MESSAGE value="Выборка данных, логические операции решена" />
+    <option name="LAST_COMMIT_MESSAGE" value="Выборка данных, логические операции решена" />
   </component>
 </project>
