@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="55497a8b-d6db-4324-8774-fe46c85aeb92" name="Changes" comment="Выборка данных, логические операции решена">
+    <list default="true" id="55497a8b-d6db-4324-8774-fe46c85aeb92" name="Changes" comment="Задача выборка данных, операторы BETWEEN, IN решена">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SQL/1.2_Data sampling" beforeDir="false" afterPath="$PROJECT_DIR$/SQL/1.2_Data sampling" afterDir="false" />
     </list>
@@ -181,7 +181,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678547042793</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Задача выборка данных, операторы BETWEEN, IN решена">
+      <created>1678632504234</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1678632504235</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -207,6 +214,7 @@
     <MESSAGE value="Выборка данных, вычисляемые столбцы, логические функции&#10; задача решена" />
     <MESSAGE value="Выборка данных по условию задача решена" />
     <MESSAGE value="Выборка данных, логические операции решена" />
-    <option name="LAST_COMMIT_MESSAGE" value="Выборка данных, логические операции решена" />
+    <MESSAGE value="Задача выборка данных, операторы BETWEEN, IN решена" />
+    <option name="LAST_COMMIT_MESSAGE" value="Задача выборка данных, операторы BETWEEN, IN решена" />
   </component>
 </project>
