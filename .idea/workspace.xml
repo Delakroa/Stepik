@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="55497a8b-d6db-4324-8774-fe46c85aeb92" name="Changes" comment="Задача Выборка данных, оператор LIKE решена">
+    <list default="true" id="55497a8b-d6db-4324-8774-fe46c85aeb92" name="Changes" comment="Задача Выбор уникальных элементов столбца решена">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SQL/1.3_Queries,_group_operators" beforeDir="false" afterPath="$PROJECT_DIR$/SQL/1.3_Queries,_group_operators" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SQL/book.db" beforeDir="false" afterPath="$PROJECT_DIR$/SQL/book.db" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -208,7 +210,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678873351434</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Задача Выбор уникальных элементов столбца решена">
+      <created>1678875121898</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1678875121898</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -238,6 +247,7 @@
     <MESSAGE value="Задача выборка данных с сортировкой решена" />
     <MESSAGE value="Задача Выборка данных, оператор LIKE доделать" />
     <MESSAGE value="Задача Выборка данных, оператор LIKE решена" />
-    <option name="LAST_COMMIT_MESSAGE" value="Задача Выборка данных, оператор LIKE решена" />
+    <MESSAGE value="Задача Выбор уникальных элементов столбца решена" />
+    <option name="LAST_COMMIT_MESSAGE" value="Задача Выбор уникальных элементов столбца решена" />
   </component>
 </project>
