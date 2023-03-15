@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="55497a8b-d6db-4324-8774-fe46c85aeb92" name="Changes" comment="Задача выборка данных с сортировкой решена">
+    <list default="true" id="55497a8b-d6db-4324-8774-fe46c85aeb92" name="Changes" comment="Задача Выборка данных, оператор LIKE доделать">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SQL/1.2_Data sampling" beforeDir="false" afterPath="$PROJECT_DIR$/SQL/1.2_Data sampling" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -195,7 +194,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678729064148</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Задача Выборка данных, оператор LIKE доделать">
+      <created>1678819423608</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1678819423608</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -223,6 +229,7 @@
     <MESSAGE value="Выборка данных, логические операции решена" />
     <MESSAGE value="Задача выборка данных, операторы BETWEEN, IN решена" />
     <MESSAGE value="Задача выборка данных с сортировкой решена" />
-    <option name="LAST_COMMIT_MESSAGE" value="Задача выборка данных с сортировкой решена" />
+    <MESSAGE value="Задача Выборка данных, оператор LIKE доделать" />
+    <option name="LAST_COMMIT_MESSAGE" value="Задача Выборка данных, оператор LIKE доделать" />
   </component>
 </project>
