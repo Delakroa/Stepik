@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="55497a8b-d6db-4324-8774-fe46c85aeb92" name="Changes" comment="Задача Выборка данных, групповые функции SUM и COUNT решена">
+    <list default="true" id="55497a8b-d6db-4324-8774-fe46c85aeb92" name="Changes" comment="Refactoring">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SQL/PythonSQLite.py" beforeDir="false" afterPath="$PROJECT_DIR$/SQL/PythonSQLite.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SQL/book.db" beforeDir="false" afterPath="$PROJECT_DIR$/SQL/book.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SQL/1.3_Queries,_group_operators" beforeDir="false" afterPath="$PROJECT_DIR$/SQL/1.3_Queries,_group_operators" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -246,7 +245,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678883420831</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Refactoring">
+      <created>1678983643530</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1678983643530</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -278,7 +284,8 @@
     <MESSAGE value="Задача Выборка данных, оператор LIKE решена" />
     <MESSAGE value="Задача Выбор уникальных элементов столбца решена" />
     <MESSAGE value="Задача Выборка данных, групповые функции SUM и COUNT решена" />
-    <option name="LAST_COMMIT_MESSAGE" value="Задача Выборка данных, групповые функции SUM и COUNT решена" />
+    <MESSAGE value="Refactoring" />
+    <option name="LAST_COMMIT_MESSAGE" value="Refactoring" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
