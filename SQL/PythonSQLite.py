@@ -1,6 +1,6 @@
 import sqlite3
 
-with sqlite3.connect("E:\\python_library\\Stepik\\SQL\\users.db") as con:
+with sqlite3.connect("E:\\python_library\\Stepik\\SQL\\book.db") as con:
     cur = con.cursor()
 
 data = [("Мастер и Маргарита", "Булгаков М.А.", 670.99, 3),
