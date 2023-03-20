@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="55497a8b-d6db-4324-8774-fe46c85aeb92" name="Changes" comment="Задача Выборка данных по условию, групповые функции, WHERE и HAVING решена">
-      <change afterPath="$PROJECT_DIR$/SQL/1.4_Subqueries" afterDir="false" />
+    <list default="true" id="55497a8b-d6db-4324-8774-fe46c85aeb92" name="Changes" comment="Задача Вложенный запрос, возвращающий одно значение решена">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SQL/book.db" beforeDir="false" afterPath="$PROJECT_DIR$/SQL/book.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SQL/1.4_Subqueries" beforeDir="false" afterPath="$PROJECT_DIR$/SQL/1.4_Subqueries" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -288,7 +287,21 @@
       <option name="project" value="LOCAL" />
       <updated>1679246660129</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Вложенные запросы">
+      <created>1679325809574</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1679325809574</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Задача Вложенный запрос, возвращающий одно значение решена">
+      <created>1679325966840</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1679325966840</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -326,7 +339,9 @@
     <MESSAGE value="Задача Вычисления по таблице целиком решена" />
     <MESSAGE value="Задача Выборка данных по условию, групповые функции решена" />
     <MESSAGE value="Задача Выборка данных по условию, групповые функции, WHERE и HAVING решена" />
-    <option name="LAST_COMMIT_MESSAGE" value="Задача Выборка данных по условию, групповые функции, WHERE и HAVING решена" />
+    <MESSAGE value="Вложенные запросы" />
+    <MESSAGE value="Задача Вложенный запрос, возвращающий одно значение решена" />
+    <option name="LAST_COMMIT_MESSAGE" value="Задача Вложенный запрос, возвращающий одно значение решена" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
