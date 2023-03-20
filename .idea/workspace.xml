@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="55497a8b-d6db-4324-8774-fe46c85aeb92" name="Changes" comment="Задача Выборка данных по условию, групповые функции решена">
+    <list default="true" id="55497a8b-d6db-4324-8774-fe46c85aeb92" name="Changes" comment="Задача Выборка данных по условию, групповые функции, WHERE и HAVING решена">
+      <change afterPath="$PROJECT_DIR$/SQL/1.4_Subqueries" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SQL/book.db" beforeDir="false" afterPath="$PROJECT_DIR$/SQL/book.db" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -279,7 +281,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679242339421</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Задача Выборка данных по условию, групповые функции, WHERE и HAVING решена">
+      <created>1679246660129</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1679246660129</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -316,7 +325,8 @@
     <MESSAGE value="Задача Выборка данных c вычислением, групповые функции решена" />
     <MESSAGE value="Задача Вычисления по таблице целиком решена" />
     <MESSAGE value="Задача Выборка данных по условию, групповые функции решена" />
-    <option name="LAST_COMMIT_MESSAGE" value="Задача Выборка данных по условию, групповые функции решена" />
+    <MESSAGE value="Задача Выборка данных по условию, групповые функции, WHERE и HAVING решена" />
+    <option name="LAST_COMMIT_MESSAGE" value="Задача Выборка данных по условию, групповые функции, WHERE и HAVING решена" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
