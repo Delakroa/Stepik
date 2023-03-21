@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="55497a8b-d6db-4324-8774-fe46c85aeb92" name="Changes" comment="Задача Вложенный запрос, возвращающий одно значение решена">
+    <list default="true" id="55497a8b-d6db-4324-8774-fe46c85aeb92" name="Changes" comment="Задача Использование вложенного запроса в выражении решена">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SQL/1.4_Subqueries" beforeDir="false" afterPath="$PROJECT_DIR$/SQL/1.4_Subqueries" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SQL/book.db" beforeDir="false" afterPath="$PROJECT_DIR$/SQL/book.db" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -301,7 +301,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679325966840</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Задача Использование вложенного запроса в выражении решена">
+      <created>1679329052801</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1679329052801</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -316,7 +323,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Изменил" />
     <MESSAGE value="README" />
     <MESSAGE value="Задача Выборка данных, вычисляемые столбцы, математические функции решена." />
     <MESSAGE value="Новая тема Выборка данных по условию" />
@@ -341,7 +347,8 @@
     <MESSAGE value="Задача Выборка данных по условию, групповые функции, WHERE и HAVING решена" />
     <MESSAGE value="Вложенные запросы" />
     <MESSAGE value="Задача Вложенный запрос, возвращающий одно значение решена" />
-    <option name="LAST_COMMIT_MESSAGE" value="Задача Вложенный запрос, возвращающий одно значение решена" />
+    <MESSAGE value="Задача Использование вложенного запроса в выражении решена" />
+    <option name="LAST_COMMIT_MESSAGE" value="Задача Использование вложенного запроса в выражении решена" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
