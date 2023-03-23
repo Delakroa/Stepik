@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="55497a8b-d6db-4324-8774-fe46c85aeb92" name="Changes" comment="Задача Вложенный запрос, оператор IN решена">
+    <list default="true" id="55497a8b-d6db-4324-8774-fe46c85aeb92" name="Changes" comment="Задача Вложенный запрос, операторы ANY и ALL решена">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SQL/1.4_Subqueries" beforeDir="false" afterPath="$PROJECT_DIR$/SQL/1.4_Subqueries" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -315,7 +314,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679412843293</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Задача Вложенный запрос, операторы ANY и ALL решена">
+      <created>1679497790403</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1679497790403</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -330,7 +336,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Задача Выборка данных, вычисляемые столбцы, математические функции решена." />
     <MESSAGE value="Новая тема Выборка данных по условию" />
     <MESSAGE value="Обучение SQLite" />
     <MESSAGE value="max и min задача решена" />
@@ -355,7 +360,8 @@
     <MESSAGE value="Задача Вложенный запрос, возвращающий одно значение решена" />
     <MESSAGE value="Задача Использование вложенного запроса в выражении решена" />
     <MESSAGE value="Задача Вложенный запрос, оператор IN решена" />
-    <option name="LAST_COMMIT_MESSAGE" value="Задача Вложенный запрос, оператор IN решена" />
+    <MESSAGE value="Задача Вложенный запрос, операторы ANY и ALL решена" />
+    <option name="LAST_COMMIT_MESSAGE" value="Задача Вложенный запрос, операторы ANY и ALL решена" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
