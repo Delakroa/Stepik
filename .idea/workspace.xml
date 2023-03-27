@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="55497a8b-d6db-4324-8774-fe46c85aeb92" name="Changes" comment="Данные записаны" />
+    <list default="true" id="55497a8b-d6db-4324-8774-fe46c85aeb92" name="Changes" comment="Задача Добавление записей из другой таблицы решена." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -340,7 +340,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679676007004</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="Задача Добавление записей из другой таблицы решена.">
+      <created>1679745650505</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1679745650505</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -355,7 +362,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Все вместе&#10; задача решена" />
     <MESSAGE value="Вторая цифра&#10; задача решена" />
     <MESSAGE value="Выборка данных, вычисляемые столбцы, логические функции&#10; задача решена" />
     <MESSAGE value="Выборка данных по условию задача решена" />
@@ -380,7 +386,8 @@
     <MESSAGE value="Задача Вложенный запрос после SELECT решена" />
     <MESSAGE value="Таблица создана" />
     <MESSAGE value="Данные записаны" />
-    <option name="LAST_COMMIT_MESSAGE" value="Данные записаны" />
+    <MESSAGE value="Задача Добавление записей из другой таблицы решена." />
+    <option name="LAST_COMMIT_MESSAGE" value="Задача Добавление записей из другой таблицы решена." />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
