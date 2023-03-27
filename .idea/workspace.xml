@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="55497a8b-d6db-4324-8774-fe46c85aeb92" name="Changes" comment="Задача Добавление записей из другой таблицы решена." />
+    <list default="true" id="55497a8b-d6db-4324-8774-fe46c85aeb92" name="Changes" comment="Задача Добавление записей, вложенные запросы решена.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SQL/1.5_Data_Correction_Requests" beforeDir="false" afterPath="$PROJECT_DIR$/SQL/1.5_Data_Correction_Requests" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SQL/book.db" beforeDir="false" afterPath="$PROJECT_DIR$/SQL/book.db" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -347,7 +351,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679745650505</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="Задача Добавление записей, вложенные запросы решена.">
+      <created>1679913936886</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1679913936886</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -362,7 +373,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Вторая цифра&#10; задача решена" />
     <MESSAGE value="Выборка данных, вычисляемые столбцы, логические функции&#10; задача решена" />
     <MESSAGE value="Выборка данных по условию задача решена" />
     <MESSAGE value="Выборка данных, логические операции решена" />
@@ -387,7 +397,8 @@
     <MESSAGE value="Таблица создана" />
     <MESSAGE value="Данные записаны" />
     <MESSAGE value="Задача Добавление записей из другой таблицы решена." />
-    <option name="LAST_COMMIT_MESSAGE" value="Задача Добавление записей из другой таблицы решена." />
+    <MESSAGE value="Задача Добавление записей, вложенные запросы решена." />
+    <option name="LAST_COMMIT_MESSAGE" value="Задача Добавление записей, вложенные запросы решена." />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
