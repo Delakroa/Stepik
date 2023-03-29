@@ -334,6 +334,7 @@ SELECT * FROM book;
 --  снизить на 10%.
 
 UPDATE book
-SET buy = IF (buy <= amount, price, price - 0.9)
+SET buy = IF(buy >= amount, amount, buy),
+    price = IF(buy = 0, price * 0.9, price);
 
 ---------------------------------------------------------------------------------------------------------------------

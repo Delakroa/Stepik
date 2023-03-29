@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="55497a8b-d6db-4324-8774-fe46c85aeb92" name="Changes" comment="Задача Запросы на обновление решена.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SQL/1.5_Data_Correction_Requests" beforeDir="false" afterPath="$PROJECT_DIR$/SQL/1.5_Data_Correction_Requests" afterDir="false" />
-    </list>
+    <list default="true" id="55497a8b-d6db-4324-8774-fe46c85aeb92" name="Changes" comment="Задача Запросы на обновление нескольких столбцов нежно доделать" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -364,7 +361,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679918479837</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="Задача Запросы на обновление нескольких столбцов нежно доделать">
+      <created>1680024629518</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1680024629518</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -379,7 +383,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Выборка данных по условию задача решена" />
     <MESSAGE value="Выборка данных, логические операции решена" />
     <MESSAGE value="Задача выборка данных, операторы BETWEEN, IN решена" />
     <MESSAGE value="Задача выборка данных с сортировкой решена" />
@@ -404,7 +407,8 @@
     <MESSAGE value="Задача Добавление записей из другой таблицы решена." />
     <MESSAGE value="Задача Добавление записей, вложенные запросы решена." />
     <MESSAGE value="Задача Запросы на обновление решена." />
-    <option name="LAST_COMMIT_MESSAGE" value="Задача Запросы на обновление решена." />
+    <MESSAGE value="Задача Запросы на обновление нескольких столбцов нежно доделать" />
+    <option name="LAST_COMMIT_MESSAGE" value="Задача Запросы на обновление нескольких столбцов нежно доделать" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
