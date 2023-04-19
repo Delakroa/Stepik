@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="55497a8b-d6db-4324-8774-fe46c85aeb92" name="Changes" comment="Задача Запросы на обновление нескольких таблиц решена.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SQL/1.5_Data_Correction_Requests" beforeDir="false" afterPath="$PROJECT_DIR$/SQL/1.5_Data_Correction_Requests" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SQL/book.db" beforeDir="false" afterPath="$PROJECT_DIR$/SQL/book.db" afterDir="false" />
-    </list>
+    <list default="true" id="55497a8b-d6db-4324-8774-fe46c85aeb92" name="Changes" comment="Задача Запросы на удаление решена." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -414,7 +410,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681762956378</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="Задача Запросы на удаление решена.">
+      <created>1681817841747</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1681817841747</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -429,7 +432,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Задача Выборка данных, оператор LIKE доделать" />
     <MESSAGE value="Задача Выборка данных, оператор LIKE решена" />
     <MESSAGE value="Задача Выбор уникальных элементов столбца решена" />
     <MESSAGE value="Задача Выборка данных, групповые функции SUM и COUNT решена" />
@@ -454,7 +456,8 @@
     <MESSAGE value="Задача Запросы на обновление нескольких столбцов решена." />
     <MESSAGE value="Задача Запросы на обновление нескольких таблиц сделать" />
     <MESSAGE value="Задача Запросы на обновление нескольких таблиц решена." />
-    <option name="LAST_COMMIT_MESSAGE" value="Задача Запросы на обновление нескольких таблиц решена." />
+    <MESSAGE value="Задача Запросы на удаление решена." />
+    <option name="LAST_COMMIT_MESSAGE" value="Задача Запросы на удаление решена." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
